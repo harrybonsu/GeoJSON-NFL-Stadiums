@@ -10,3 +10,5 @@ Users will however notice that teams which share stadiums such as L.A. Rams and 
 
 The map has three (3) base layers; Street Map, Dark Map and a Satelite Map. With a collapsible control panel, users can pick which layer they want to view. The popups show important information on the team/teams that play in these stadiums, Stadium name, Conference as well as the Team logo. 
 
+![Dark Map](static/images/DarkMap.png)                                                    ![SateliteMap Map](static/images/SateliteMap.png)
+
